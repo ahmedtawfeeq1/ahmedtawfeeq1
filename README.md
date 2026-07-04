@@ -2,9 +2,10 @@
 
 # Hi 👋 I'm Ahmed Tawfeeq
 
-### Co-founder, CPO &amp; AI Lead @ GenuDo · Mechatronics Engineer (Robotics &amp; Automation)
+### Founder, CPO &amp; AI Lead @ GenuDo.ai
+### Mechatronics Engineer (Robotics &amp; Automation)
 
-Building agentic AI systems and open tools for the agent era.
+I build production AI agents — and open-source the tools that make them reliable.
 
 <p>
   <a href="https://genudo.ai"><img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
