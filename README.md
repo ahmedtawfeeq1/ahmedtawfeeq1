@@ -1,9 +1,9 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
 
-<a href="https://github.com/ahmedtawfeeq1">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Ahmed+Tawfeeq;Mechatronics+Engineer+%7C+Robotics+%26+Automation;AI+%26+Automation+Engineer;Founder+%40+GenuDo+AI;BI+%26+Automation+since+2019" alt="Typing SVG" />
-</a>
+# Hi 👋 I'm Ahmed Tawfeeq
+
+### Mechatronics Engineer · Robotics & Automation · AI & Automation · Founder @ GenuDo AI
 
 <p>
   <a href="https://www.Blackstone.eit/"><img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
@@ -78,22 +78,9 @@ I'm a **Mechatronics Engineer** majored in **Robotics & Automation**, based in C
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Focus Areas
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedtawfeeq1&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&icon_color=3B82F6&title_color=3B82F6" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedtawfeeq1&layout=compact&hide_border=true&theme=tokyonight&title_color=3B82F6&langs_count=8" alt="top langs" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ahmedtawfeeq1&hide_border=true&theme=tokyonight&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="streak" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedtawfeeq1&theme=onedark&no-frame=true&column=7&margin-w=8" alt="trophies" />
-
-</div>
+`AI Agents` · `Agentic Orchestration` · `RAG` · `Real-time Multimodal` · `Workflow Automation` · `Business Intelligence` · `Robotics & Control` · `Full-stack (FastAPI · Next.js)`
 
 ---
 
