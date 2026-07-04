@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Ahmed Tawfeeq
 
-### AI &amp; Mechatronics Engineer · Founder @ GenuDo
+###  Mechatronics Engineer Majored in Robotics, AI, & Automation · Founder @ GenuDo.ai
 
 Building agentic AI systems and open tools for the agent era.
 
