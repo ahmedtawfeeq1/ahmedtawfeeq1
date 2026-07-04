@@ -1,93 +1,56 @@
-<!-- ===== HEADER ===== -->
 <div align="center">
 
 # Hi 👋 I'm Ahmed Tawfeeq
 
-### Mechatronics Engineer · Robotics, AI & Automation · Founder @ GenuDo AI
+### AI &amp; Automation Engineer · Founder @ GenuDo
+
+Building agentic AI systems and open tools for the agent era.
 
 <p>
-  <a href="https://www.Blackstone.eit/"><img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://genudo.ai"><img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/ahmed-tawfeeq/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://dev.to/devlikeapro"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/></a>
   <a href="mailto:loopx.tech1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/ahmedtawfeeq1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=ahmedtawfeeq1&label=Profile%20views&color=3B82F6&style=flat" alt="profile views" />
 
 </div>
 
 ---
 
-### 🤖 About Me
+### 🧠 About
 
-I'm a **Mechatronics Engineer** majored in **Robotics & Automation**, based in Cairo, Egypt, and the founder of **GenuDo AI**. I've been working in **Business Intelligence & Automation since 2019** — today I design and ship production-grade agentic systems that turn language models into reliable, autonomous software: multi-agent orchestration, real-time multimodal pipelines, RAG, and end-to-end workflow automation.
+I build production-grade AI agents and automation — turning language models into reliable, autonomous software. Mechatronics engineer by training, working across AI, business intelligence, and automation since 2019. These days I'm focused on shipping **open tools for the agent era**.
 
-- 🤖 Mechatronics & Robotics background — bridging **hardware, control systems, and AI**.
-- 📊 **7+ years** in Business Intelligence & Automation (since 2019).
-- 🧠 Building **GenuDo** — a production AI agent platform (engine, real-time worker, agent builder kit, admin & dashboard).
-- ⚞׸� I live in the space between **LLMs, agents, and automation** — FastAPI, Pydantic AI, n8n, and TypeScript full-stack.
-- 🪄 Turning messy manual work into **self-driving pipelines** (sales, ops, knowledge management).
-- 🌱 Always shipping — 42+ repos and 1,500+ contributions in the last year.
+- 🚀 Building **GenuDo** — a platform to design, run, and scale production AI agents → [genudo.ai](https://genudo.ai)
+- 🛠️ Shipping open developer tools around AI agents and automation
+- ⚙️ Working in: agentic orchestration · RAG · real-time multimodal · workflow automation
 
 ---
 
-### 🚀 GenuDo AI — What I'm Building
+### 🔭 Currently Building
 
-**GenuDo** is my production-grade platform for building, running, and scaling AI agents.
-
-| Layer | What it does |
+| Project | What it is |
 | --- | --- |
-| 🧩 **genudo-ai-engine** | FastAPI + Pydantic AI agentic engine — the reasoning core. |
-| 📡 **genudo-realtime** | Real-time, multimodal layer connecting calls, meetings & sensor/camera feeds to the agent brain. |
-| 🛠️ **genudo-agent-builder-kit** | Toolkit for composing and deploying custom agents. |
-| 🪄 **magic-pipeline-ai** | AI-powered visual sales pipeline built with natural-language orchestration. |
-| 📚 **loredex** | Auto-organizes AI-generated markdown into an Obsidian-compatible knowledge vault. |
+| **[loredex](https://github.com/ahmedtawfeeq1/loredex)** | Gives your coding agents a brain for the hundreds of markdown files they generate — auto-organized into an Obsidian-compatible knowledge vault. |
+| **[ai-agents-farm](https://github.com/ahmedtawfeeq1/ai-agents-farm)** | An open catalog of 39 AI agent &amp; automation blueprints, organized by type and business function. |
+| **[sayr](https://github.com/ahmedtawfeeq1/sayr)** | An Arabic-first guided roadmap — sequenced journeys instead of an endless content feed. |
+| **[GenuDo](https://genudo.ai)** | The platform I'm building to design, run, and scale production AI agents. |
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Core Stack
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-**AI & Agents**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Backend & Frameworks**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Automation & Data**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📈 Focus Areas
-
-`AI Agents` · `Agentic Orchestration` · `RAG` · `Real-time Multimodal` · `Workflow Automation` · `Business Intelligence` · `Robotics & Control` · `Full-stack (FastAPI · Next.js)`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Pydantic AI](https://img.shields.io/badge/Pydantic_AI-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
 <div align="center">
 
-_"I build agents that do the work, so people can do the thinking."_
-
-⭐️ From [ahmedtawfeeq1](https://github.com/ahmedtawfeeq1)
+Building in the open. Let's connect → **[genudo.ai](https://genudo.ai)**
 
 </div>
