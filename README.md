@@ -3,7 +3,7 @@
 
 # Hi 👋 I'm Ahmed Tawfeeq
 
-### Mechatronics Engineer · Robotics & Automation · AI & Automation · Founder @ GenuDo AI
+### Mechatronics Engineer · Robotics, AI & Automation · Founder @ GenuDo AI
 
 <p>
   <a href="https://www.Blackstone.eit/"><img src="https://img.shields.io/badge/Website-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
